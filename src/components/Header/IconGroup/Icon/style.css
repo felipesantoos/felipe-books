@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+}
+
+.icon img {
+    height: 24px;
+    cursor: pointer;
+}
+
+.icon:first-child {
+    margin-right: 16px;
+}
